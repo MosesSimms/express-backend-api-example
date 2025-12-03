@@ -3,7 +3,7 @@ A simple example of an ExpressJS Backend API, using crypto data from CoinGecko.
 Demonstrating Routing, Controllers, and API Calls with authorization.
 
 # Background & Usage
-This is meant to be a quick example of an Express Backend  
+This is meant to be a small example of an Express Backend  
 that also handles making requests to an external Web API,  
 for myself, or whoever, to reference
 
