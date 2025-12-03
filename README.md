@@ -11,6 +11,9 @@ Currently, there is only one defined endpoint `/listings/trendingLatest`
 This route makes an API call to CoinGecko and responds with the top 15 trending  
 coins and their prices, from within the last 24 hours.
 
+## TODO
+Proper error handling, I ran out of time today
+
 # Setup
 
 ### Prerequisites
